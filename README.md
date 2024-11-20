@@ -42,7 +42,3 @@ Welcome to become our Taelor member --- [Clothing rental at Taelor](https://tael
 - **LinkedIn**: [Ben Xia](https://www.linkedin.com/in/bin-xia-61801893/)  
 - **GitHub**: [https://github.com/xiabin1235910](https://github.com/xiabin1235910)  
 - **Email**: [ben.xia@taelor.ai](mailto:ben.xia@taelor.ai)
-
----
-
-Feel free to customize this further to reflect your personal style and professional accomplishments!
