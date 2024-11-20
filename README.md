@@ -1,6 +1,7 @@
 # 👨‍💻 I am Ben - Engineering Manager @ Taelor
 
 Welcome to my GitHub profile! I'm an **Engineering Manager** at **Taelor**, passionate about building innovative solutions, fostering engineering excellence, and mentoring teams to deliver impactful projects.
+Welcome to become our Taelor member --- [Clothing rental at Taelor](https://taelor.style/pages/membership)
 
 ---
 
@@ -30,7 +31,7 @@ Welcome to my GitHub profile! I'm an **Engineering Manager** at **Taelor**, pass
 
 ## 🌟 Notable Contributions
 
-- **[Project/Team Achievements]**: Briefly highlight major milestones you've led at Taelor or elsewhere.  
+- **[Project/Team Achievements]**: Briefly highlight major milestones you've led at Taelor or elsewhere. 
 - **[Open Source Contributions]**: Showcase your involvement in the open-source community, if any.  
 - **[Mentorship Initiatives]**: Detail mentorship programs or training you've provided.
 
@@ -38,8 +39,8 @@ Welcome to my GitHub profile! I'm an **Engineering Manager** at **Taelor**, pass
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-- **GitHub**: [github.com/your-github-username](https://github.com/your-github-username)  
+- **LinkedIn**: [Ben Xia](https://www.linkedin.com/in/bin-xia-61801893/)  
+- **GitHub**: [https://github.com/xiabin1235910](https://github.com/xiabin1235910)  
 - **Email**: [ben.xia@taelor.ai](mailto:ben.xia@taelor.ai)
 
 ---
